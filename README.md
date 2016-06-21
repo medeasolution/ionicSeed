@@ -1,5 +1,7 @@
 # ionicSeed
 
+It is a seed of ionic application with RequireJS
+
 ## PREREQUISITES ##
 
 * Ionic
